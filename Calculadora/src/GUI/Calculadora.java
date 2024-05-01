@@ -80,6 +80,5 @@ public class Calculadora {
     }
         return 0;
     }
-   // this.result = num1/num2;
     
 }
